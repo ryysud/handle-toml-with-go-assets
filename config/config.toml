@@ -1,0 +1,6 @@
+[sample]
+string = "Hello Toml!"
+int = 0
+float = 1.0
+bool = true
+array = ["pen", "pineapple", "apple", "pen"]

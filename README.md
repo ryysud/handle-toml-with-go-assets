@@ -1,10 +1,14 @@
 # handle-toml-with-go-assets
 
+## Requirement
+
+- Docker
+
 ## Usage
 
-```golang
-docker build -t localhost/handle-toml-with-go-assets .
-docker run --rm localhost/handle-toml-with-go-assets
+```bash
+$ docker build -t localhost/handle-toml-with-go-assets .
+$ docker run --rm localhost/handle-toml-with-go-assets
 ```
 
 ## Output
